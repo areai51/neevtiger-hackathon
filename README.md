@@ -7,5 +7,6 @@ Team members please add your names below and your roles.
 
 Name                     Roles
 Akansha                 Developer(php)
+Suvarna                 UI Developer
 
 Vinci Rufus - Likes giving free advice.
